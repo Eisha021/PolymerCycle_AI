@@ -35,7 +35,7 @@ The tool does **not propose new recycling technologies**. Instead, it supports *
 - **Python**
 - **Gradio** – interactive web interface
 - **Hugging Face Inference API**
-- **Meta LLaMA-3 ** – Generative AI model
+- **Meta LLaMA-3 (8B Instruct)** – Generative AI model 
 - **Hugging Face Spaces** – serverless deployment
 
 ---
@@ -79,5 +79,5 @@ This concept aligns with ongoing efforts in **sustainable materials science and 
 ---
 
 ## 📜 Important Note
-This project is released for educational and research demonstration purposes.
+This project is released for educational purposes.
 
