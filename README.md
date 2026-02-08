@@ -31,6 +31,11 @@ The tool does **not propose new recycling technologies**. Instead, it supports *
 
 ---
 
+## 🏁 Hackathon Context
+This project was developed as part of the **DevLaunch Hackathon 2026**, organized by **iCodeGuru in collaboration with WPBrigade**.  
+
+---
+
 ## ⚙️ Tech Stack
 - **Python**
 - **Gradio** – interactive web interface
